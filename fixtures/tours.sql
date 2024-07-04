@@ -1,0 +1,15 @@
+INSERT INTO TOUR (ID, NAME, DESCRIPTION, START_DATE, END_DATE, PRICE_PER_PERSON)
+VALUES
+(201, 'Mountain Trek', 'Explore scenic mountains and trails.', TO_DATE('2024-08-01', 'YYYY-MM-DD'), TO_DATE('2024-08-07', 'YYYY-MM-DD'), 2400);
+
+INSERT INTO TOUR (ID, NAME, DESCRIPTION, START_DATE, END_DATE, PRICE_PER_PERSON)
+VALUES
+(202, 'Beach Retreat', 'Relax and enjoy sun, sand, and surf.', TO_DATE('2024-07-15', 'YYYY-MM-DD'), TO_DATE('2024-07-21', 'YYYY-MM-DD'), 2500);
+
+INSERT INTO TOUR (ID, NAME, DESCRIPTION, START_DATE, END_DATE, PRICE_PER_PERSON)
+VALUES
+(203, 'Historical Tour', 'Visit ancient landmarks and cultural sites.', TO_DATE('2024-09-01', 'YYYY-MM-DD'), TO_DATE('2024-09-07', 'YYYY-MM-DD'), 1800);
+
+INSERT INTO TOUR (ID, NAME, DESCRIPTION, START_DATE, END_DATE, PRICE_PER_PERSON)
+VALUES
+(204, 'City Exploration', 'Explore vibrant city life and attractions.', TO_DATE('2024-07-10', 'YYYY-MM-DD'), TO_DATE('2024-07-16', 'YYYY-MM-DD'), 2600);
